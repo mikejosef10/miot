@@ -7,6 +7,7 @@
   * Install venv with `pip install virtualenv`
   * In the project folder type `python<version> -m venv venv`
   * Use `env/Scripts/Activate.ps1` to activate virtual enviroment
+   * In ubuntu its `source env/bin/activate`
   * Install packages with `pip install ...`
   * Use `pip freeze > requirements.txt` to store packages in a txt file
   * To install the packages, run `~ pip install -r requirements.txt`
